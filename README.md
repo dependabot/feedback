@@ -8,3 +8,9 @@ feature requests, and general feedback are all welcome - just create an
 
 Want to give your feedback in private? You can email us on
 [support@dependabot.com](mailto:support@dependabot.com).
+
+### Disclosing security issues
+
+If you believe you have found a security vulnerability in Dependabot please
+contact us on [support@dependabot.com](mailto:support@dependabot.com) so that
+we can resolve the issue before it is disclosed publicly.
