@@ -1,3 +1,5 @@
+![Dependabot](https://dependabot.com/images/dependabot-logo-full.svg)
+
 # Dependabot Feedback
 
 👋 Thanks for using Dependabot!
