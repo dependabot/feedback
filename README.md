@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://s3.eu-west-2.amazonaws.com/dependabot-images/logo-with-name-horizontal.svg" alt="Dependabot" width="300">
+  <img src="https://s3.eu-west-2.amazonaws.com/dependabot-images/logo-with-name-horizontal.svg?v5" alt="Dependabot" width="336">
 </p>
 
 # Dependabot Feedback
