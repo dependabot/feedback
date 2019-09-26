@@ -1,6 +1,9 @@
 ---
 name: "\U0001F680 Feature request"
 about: Suggest an idea for Dependabot
+title: ''
+labels: enhancement
+assignees: ''
 
 ---
 
@@ -12,5 +15,5 @@ we're always interested in your ideas. Please also note that
 [Dependabot Core](https://github.com/dependabot/dependabot-core) is a public
 repo, so in some cases you may be able to submit a pull request for your idea.
 
-To contact the Dependabot team privately you can email support@dependabot.com
+Want to give your feedback in private? You can contact us here: https://github.com/contact?form[subject]=Dependabot%20Preview%20Feedback
 -->

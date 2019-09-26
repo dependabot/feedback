@@ -1,16 +1,19 @@
 ---
 name: "\U0001F41B Bug report"
 about: Report a bug in Dependabot to help us fix it
+title: ''
+labels: bug
+assignees: ''
 
 ---
 
 <!--
-Thank you for reporting a possible bug in Dependabot.
+Thank you for suggesting an idea to make Dependabot better.
 
-Please provide as much detail of the bug as possible. If the bug has resulted in
-an incorrect pull request or issue being opened on your repository, please
-comment on the PR / issue mentioning `@dependabot` so that we can find it in
-our logs.
+We're a small team, so there's a limit to how much we can work on at once, but
+we're always interested in your ideas. Please also note that
+[Dependabot Core](https://github.com/dependabot/dependabot-core) is a public
+repo, so in some cases you may be able to submit a pull request for your idea.
 
-To contact the Dependabot team privately you can email support@dependabot.com
+Want to give your feedback in private? You can contact us here: https://github.com/contact?form[subject]=Dependabot%20Preview%20Feedback
 -->
