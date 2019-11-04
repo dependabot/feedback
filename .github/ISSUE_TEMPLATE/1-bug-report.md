@@ -19,6 +19,7 @@ To help us better address your issue, please include as much of the following as
 
 - [ ] Briefly describe the bug's impact in the title
 - [ ] Describe the bug in the "summary" section of the template below
+- [ ] If it is NOT a private repo, please include the `user/repo` name
 - [ ] Add any additional labels relevant to the problem
 
 
