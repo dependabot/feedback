@@ -15,5 +15,14 @@ we're always interested in your ideas. Please also note that
 [Dependabot Core](https://github.com/dependabot/dependabot-core) is a public
 repo, so in some cases you may be able to submit a pull request for your idea.
 
-Want to give your feedback in private? You can contact us here: https://github.com/contact?form[subject]=Dependabot%20Preview%20Feedback
+To help us better address your issue, please include as much of the following as possible.
+
+- [ ] Briefly describe the feature idea in the title
+- [ ] Describe the feature request in the "summary" section of the template below
+- [ ] Add any additional labels relevant to the feature request
+
+
+**Summary**
+
+
 -->
