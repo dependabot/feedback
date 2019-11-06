@@ -7,22 +7,8 @@ assignees: ''
 
 ---
 
-<!--
-Thank you for suggesting an idea to make Dependabot better.
+<!-- Please search existing issues to avoid creating duplicates. -->
 
-We're a small team, so there's a limit to how much we can work on at once, but
-we're always interested in your ideas. Please also note that
-[Dependabot Core](https://github.com/dependabot/dependabot-core) is a public
-repo, so in some cases you may be able to submit a pull request for your idea.
+<!-- Describe the feature you'd like and add any relevant labels. -->
 
-To help us better address your issue, please include as much of the following as possible:
-
-- [ ] Briefly describe the feature idea in the title
-- [ ] Describe the feature request in the "summary" section of the template below
-- [ ] Add any additional labels relevant to the feature request
-
-
-**Summary**
-
-
--->
+<!-- If you would like to contribute pull requests: https://github.com/dependabot/dependabot-core -->
