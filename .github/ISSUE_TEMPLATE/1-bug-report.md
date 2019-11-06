@@ -7,13 +7,11 @@ assignees: ''
 
 ---
 
-<!--
-Thank you for suggesting an idea to make Dependabot better.
+<!-- Please search existing issues to avoid creating duplicates. -->
 
-We're a small team, so there's a limit to how much we can work on at once, but
-we're always interested in your ideas. Please also note that
-[Dependabot Core](https://github.com/dependabot/dependabot-core) is a public
-repo, so in some cases you may be able to submit a pull request for your idea.
+<!-- Provide as much information as possible to help us reproduce the issue and find a fix. -->
 
-Want to give your feedback in private? You can contact us here: https://github.com/contact?form[subject]=Dependabot%20Preview%20Feedback
--->
+<!-- If it's PUBLIC repository, please include the URL in the issue. -->
+
+<!-- If it's PRIVATE repository, please email the URL to dependabot-support@github.com
+        (or create a reproduction case in a public repository 🙏). -->
