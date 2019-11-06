@@ -11,6 +11,8 @@ assignees: ''
 
 <!-- Provide as much information as possible to help us reproduce the issue and find a fix. -->
 
+<!-- Please add any relevant labels -->
+
 <!-- If it's PUBLIC repository, please include the URL in the issue. -->
 
 <!-- If it's PRIVATE repository, please email the URL to dependabot-support@github.com
