@@ -9,6 +9,6 @@ assignees: ''
 
 <!-- Please search existing issues to avoid creating duplicates. -->
 
-<!-- Describe the feature you'd like and add any relevant labels. -->
+<!-- Describe the feature you'd like. -->
 
 <!-- If you would like to contribute pull requests: https://github.com/dependabot/dependabot-core -->
