@@ -13,5 +13,6 @@ assignees: ''
 
 <!-- If it's PUBLIC repository, please include the URL in the issue. -->
 
-<!-- If it's PRIVATE repository, please email the URL to dependabot-support@github.com
-        (or create a reproduction case in a public repository 🙏). -->
+<!-- If it's PRIVATE repository, please fill out GitHub's support form:
+     https://support.github.com/contact?form%5Bsubject%5D=Re%3A+Dependabot+Preview
+     Be sure to include the repository name and any troubleshooting steps you've tried so far. -->
