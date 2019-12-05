@@ -11,4 +11,4 @@ assignees: ''
 
 <!-- Describe the feature you'd like. -->
 
-<!-- If you would like to contribute pull requests: https://github.com/dependabot/dependabot-core -->
+<!-- If you would like to contribute: https://github.com/dependabot/dependabot-core -->
