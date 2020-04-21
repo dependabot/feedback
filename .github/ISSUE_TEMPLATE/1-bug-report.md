@@ -6,13 +6,21 @@ labels: bug
 assignees: ''
 
 ---
-
 <!-- Please search existing issues to avoid creating duplicates. -->
 
-<!-- Provide as much information as possible to help us reproduce the issue and find a fix. -->
+<!-- The Dependabot team is currently at reduced capacity, because of this our
+response times on issues will be slower than we'd like. -->
 
-<!-- If it's PUBLIC repository, please include the URL in the issue. -->
+<!-- The more information you can provide, the easier it will be to reproduce the issue and find a fix -->
 
-<!-- If it's PRIVATE repository, please fill out GitHub's support form:
-     https://support.github.com/contact?form%5Bsubject%5D=Re%3A+Dependabot+Preview
-     Be sure to include the repository name and any troubleshooting steps you've tried so far. -->
+**Package manage/ecosystem**
+<!-- ruby:bundler, javascript, docker.. etc -->
+**Manifest contents prior to update**
+<!-- If applicable, link to package.json, Gemfile.. etc -->
+**Updated dependency**
+<!-- If applicable, the dependency name and to and from versions -->
+**What you expected to see, versus what you actually saw**
+<!-- A clear and concise description of what you expected to happen -->
+**Images of the diff or a link to the PR, issue or logs**
+<!-- If applicable, add links to public PR's or Issues that Dependabot opened, and/or
+paste in any related logs -->
