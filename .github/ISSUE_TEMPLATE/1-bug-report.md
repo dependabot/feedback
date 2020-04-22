@@ -9,7 +9,11 @@ assignees: ''
 <!-- Please search existing issues to avoid creating duplicates. -->
 
 <!-- The Dependabot team is currently at reduced capacity, because of this our
-response times on issues will be slower than we'd like. -->
+     response times on issues will be slower than we'd like. -->
+
+<!-- If it's PRIVATE repository, please fill out GitHub's support form:
+     https://support.github.com/contact?form%5Bsubject%5D=Re%3A+Dependabot+Preview
+     Be sure to include the repository name and any troubleshooting steps you've tried so far. -->
 
 <!-- The more information you can provide, the easier it will be to reproduce the issue and find a fix -->
 
