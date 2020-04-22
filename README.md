@@ -9,6 +9,9 @@
 If you've got any feedback for us, this is the place to leave it. Bug reports,
 feature requests, and general feedback are all welcome.
 
+The Dependabot team is currently at reduced capacity, because of this our
+response times on issues will be slower than we'd like.
+
 ### Disclosing security issues
 
 If you believe you have found a security vulnerability in Dependabot please
